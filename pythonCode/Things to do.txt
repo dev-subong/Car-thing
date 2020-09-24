@@ -1,0 +1,6 @@
+Gotta Make sure of the following
+Enable do the ic2 kernel: https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c
+Instal module for gyro: pip3 install adafruit-circuitpython-lsm9ds1
+Python 3.0 is enabled: https://www.python.org/download/releases/3.0/
+Run tests to see what Accel_X is equal to when kit.motor1.throttle=1/
+
